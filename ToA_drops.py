@@ -28,7 +28,7 @@ print('It took ' + str(shadow) + ' times to get a shadow.')
 #here are some more lines of code
 #here is more code
 
-
+print('Dont forget to use a message when you commit. After you commit, it is important to push.")
 
 
 
