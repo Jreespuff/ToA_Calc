@@ -22,6 +22,9 @@ while dice != 1:
 print('It took ' + str(times) + ' raids to get a purple.')
 print('It took ' + str(shadow) + ' times to get a shadow.')
 
+#adding some changes here for a test
+#let's see how this works
+#git is really cool!
 
 
 
